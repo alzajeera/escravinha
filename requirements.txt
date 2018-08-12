@@ -1,0 +1,13 @@
+discord.py
+asyncio
+random
+lolizinha
+requests
+BytesIO
+io
+PIL
+avatar.png
+bemvindo.png
+BebasNeue.ttf
+PynaCl
+ffmpeg
